@@ -44,7 +44,6 @@
 #include "usb_otg.h"
 #include "gpio.h"
 
-//Hello
 /* USER CODE BEGIN Includes */
 
 /* USER CODE END Includes */
